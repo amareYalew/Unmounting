@@ -1,2 +1,2 @@
-# Unmounting
-Clean up code we wanted to be executed when the Component is Unmounted
+# useContext
+use Context in React to Pass the data from App Component to its descendants
